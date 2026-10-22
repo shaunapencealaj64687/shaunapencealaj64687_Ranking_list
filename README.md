@@ -9,6 +9,7 @@
 
 | 记录时间 | 周次 | 最火项目 | 总星 | 本周新增 | 语言 | 我的 fork |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-22 17:50 | 2026-W43 | #3 [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)<br><sub>Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists…</sub> | 53,743 | +4,719 | Python | [shaunapencealaj64687/scientific-agent-skills](https://github.com/shaunapencealaj64687/scientific-agent-skills) |
 | 2026-10-20 11:00 | 2026-W43 | #6 [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)<br><sub>Ghidra is a software reverse engineering (SRE) framework</sub> | 91,652 | +7,152 | Java | [shaunapencealaj64687/ghidra](https://github.com/shaunapencealaj64687/ghidra) |
 | 2026-10-18 19:00 | 2026-W42 | #10 [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context)<br><sub>A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer to…</sub> | 1,819 | +888 | TypeScript | [shaunapencealaj64687/billion-context](https://github.com/shaunapencealaj64687/billion-context) |
 | 2026-10-17 16:30 | 2026-W42 | #5 [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)<br><sub>Write HTML. Render video. Built for agents.</sub> | 65,513 | +5,601 | TypeScript | [shaunapencealaj64687/hyperframes](https://github.com/shaunapencealaj64687/hyperframes) |
