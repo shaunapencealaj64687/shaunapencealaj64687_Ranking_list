@@ -9,6 +9,7 @@
 
 | 记录时间 | 周次 | 最火项目 | 总星 | 本周新增 | 语言 | 我的 fork |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-31 08:50 | 2026-W44 | #10 [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)<br><sub>Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork</sub> | 34,038 | +2,083 | Python | [shaunapencealaj64687/knowledge-work-plugins](https://github.com/shaunapencealaj64687/knowledge-work-plugins) |
 | 2026-10-26 12:30 | 2026-W44 | #3 [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)<br><sub>Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork</sub> | 33,031 | +2,790 | Python | [shaunapencealaj64687/knowledge-work-plugins](https://github.com/shaunapencealaj64687/knowledge-work-plugins) |
 | 2026-10-25 18:00 | 2026-W43 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)<br><sub>A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings</sub> | 45,567 | +12,680 | JavaScript | [shaunapencealaj64687/security-audit-skill](https://github.com/shaunapencealaj64687/security-audit-skill) |
 | 2026-10-24 20:10 | 2026-W43 | #10 [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)<br><sub>Write HTML. Render video. Built for agents.</sub> | 71,118 | +5,553 | TypeScript | [shaunapencealaj64687/hyperframes](https://github.com/shaunapencealaj64687/hyperframes) |
