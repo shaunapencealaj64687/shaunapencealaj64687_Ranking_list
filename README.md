@@ -9,6 +9,7 @@
 
 | 记录时间 | 周次 | 最火项目 | 总星 | 本周新增 | 语言 | 我的 fork |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-03 08:20 | 2026-W45 | #5 [obra/superpowers](https://github.com/obra/superpowers)<br><sub>An agentic skills framework & software development methodology that works.</sub> | 311,237 | +5,956 | Shell | [shaunapencealaj64687/superpowers](https://github.com/shaunapencealaj64687/superpowers) |
 | 2026-11-01 19:30 | 2026-W44 | #8 [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 36,484 | +3,718 | TypeScript | [shaunapencealaj64687/t3code](https://github.com/shaunapencealaj64687/t3code) |
 | 2026-10-31 08:50 | 2026-W44 | #10 [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)<br><sub>Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork</sub> | 34,038 | +2,083 | Python | [shaunapencealaj64687/knowledge-work-plugins](https://github.com/shaunapencealaj64687/knowledge-work-plugins) |
 | 2026-10-26 12:30 | 2026-W44 | #3 [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)<br><sub>Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork</sub> | 33,031 | +2,790 | Python | [shaunapencealaj64687/knowledge-work-plugins](https://github.com/shaunapencealaj64687/knowledge-work-plugins) |
