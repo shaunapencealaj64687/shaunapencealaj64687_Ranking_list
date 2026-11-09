@@ -9,6 +9,7 @@
 
 | 记录时间 | 周次 | 最火项目 | 总星 | 本周新增 | 语言 | 我的 fork |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-09 14:50 | 2026-W46 | #3 [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)<br><sub>Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows</sub> | 12,173 | +2,313 | Rust | [shaunapencealaj64687/worktrunk](https://github.com/shaunapencealaj64687/worktrunk) |
 | 2026-11-08 23:00 | 2026-W45 | #7 [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 52,007 | +17,100 | TypeScript | [shaunapencealaj64687/t3code](https://github.com/shaunapencealaj64687/t3code) |
 | 2026-11-05 10:20 | 2026-W45 | #2 [Nutlope/hallmark](https://github.com/Nutlope/hallmark)<br><sub>Anti-AI-slop design skill for Claude Code, Cursor, and Codex.</sub> | 47,994 | +7,622 | CSS | [shaunapencealaj64687/hallmark](https://github.com/shaunapencealaj64687/hallmark) |
 | 2026-11-03 08:20 | 2026-W45 | #5 [obra/superpowers](https://github.com/obra/superpowers)<br><sub>An agentic skills framework & software development methodology that works.</sub> | 311,237 | +5,956 | Shell | [shaunapencealaj64687/superpowers](https://github.com/shaunapencealaj64687/superpowers) |
