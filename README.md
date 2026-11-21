@@ -9,6 +9,7 @@
 
 | 记录时间 | 周次 | 最火项目 | 总星 | 本周新增 | 语言 | 我的 fork |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-21 19:40 | 2026-W47 | #5 [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)<br><sub>AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthe…</sub> | 71,686 | +3,788 | Python | [shaunapencealaj64687/last30days-skill](https://github.com/shaunapencealaj64687/last30days-skill) |
 | 2026-11-20 18:50 | 2026-W47 | #2 [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)<br><sub>A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills op…</sub> | 10,861 | +1,829 | TypeScript | [shaunapencealaj64687/stitch-skills](https://github.com/shaunapencealaj64687/stitch-skills) |
 | 2026-11-19 11:40 | 2026-W47 | #10 [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)<br><sub>LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-s…</sub> | 73,388 | +3,566 | Python | [shaunapencealaj64687/daily_stock_analysis](https://github.com/shaunapencealaj64687/daily_stock_analysis) |
 | 2026-11-16 20:50 | 2026-W47 | #4 [anthropics/skills](https://github.com/anthropics/skills)<br><sub>Public repository for Agent Skills</sub> | 195,682 | +6,077 | Python | [shaunapencealaj64687/skills](https://github.com/shaunapencealaj64687/skills) |
