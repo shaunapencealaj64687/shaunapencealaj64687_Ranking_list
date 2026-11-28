@@ -9,6 +9,7 @@
 
 | 记录时间 | 周次 | 最火项目 | 总星 | 本周新增 | 语言 | 我的 fork |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-28 11:40 | 2026-W48 | #3 [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)<br><sub>Keep your coding agent up to date with the latest web best practices</sub> | 11,480 | +2,008 | TypeScript | [shaunapencealaj64687/modern-web-guidance-src](https://github.com/shaunapencealaj64687/modern-web-guidance-src) |
 | 2026-11-27 18:20 | 2026-W48 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator)<br><sub>The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share wi…</sub> | 15,333 | +1,631 | TypeScript | [shaunapencealaj64687/plannotator](https://github.com/shaunapencealaj64687/plannotator) |
 | 2026-11-25 20:20 | 2026-W48 | #7 [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills)<br><sub>Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars…</sub> | 8,393 | +1,504 | Python | [shaunapencealaj64687/claude-trading-skills](https://github.com/shaunapencealaj64687/claude-trading-skills) |
 | 2026-11-21 19:40 | 2026-W47 | #5 [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)<br><sub>AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthe…</sub> | 71,686 | +3,788 | Python | [shaunapencealaj64687/last30days-skill](https://github.com/shaunapencealaj64687/last30days-skill) |
